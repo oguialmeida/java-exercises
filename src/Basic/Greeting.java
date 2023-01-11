@@ -11,16 +11,11 @@ public class Greeting {
 
         if (hours >= 6 && hours <= 12) {
             System.out.println("Bom dia");
-        }
-
-        else if (hours > 12 && hours < 18) {
+        } else if (hours > 12 && hours < 18) {
             System.out.println("Boa tarde");
-        }
-        
-        else if (hours > 18 && hours <= 23) {
+        } else if (hours > 18 && hours <= 23) {
             System.out.println("Boa noite");
-        }
-        else {
+        } else {
             System.out.println("Xô, vai dormir!");
         }
         sc.close();

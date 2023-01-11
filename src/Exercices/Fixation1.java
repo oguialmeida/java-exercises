@@ -1,3 +1,5 @@
+// Displaying variables in strings
+
 package Exercices;
 
 import java.util.Locale;
