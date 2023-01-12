@@ -1,3 +1,4 @@
+// A simple calculator which takes two numbers (Written to use in Potuguese)
 package Exercices;
 
 import java.util.Scanner;
@@ -9,6 +10,7 @@ public class Fixation4 {
 
         try {
             while (makeLoop == true) {
+                System.out.print("\033\143");
                 System.out.println("|---------------------------------|");
                 System.out.println("|-----------Calculadora-----------|");
                 System.out.println("|---------------------------------|");
@@ -57,13 +59,12 @@ public class Fixation4 {
                 } else if (resp == 'S' || resp == 's') {
                     makeLoop = true;
                 } else {
-                    System.out.println("Comando incorreto!");
+                    System.out.println("Comando incorreto! Programa encerrado :)");
                     makeLoop = false;
                 }
-                System.out.print("\033\143");
             }
         } catch (Exception e) {
-            System.out.println("Erro na execução, tente novamente :(");
+            System.out.println("Erro na entrada de dados, tente novamente :(");
         }
         ;
         sc.close();

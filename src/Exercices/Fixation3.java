@@ -1,3 +1,4 @@
+// Simple counter
 package Exercices;
 
 import java.util.Scanner;

@@ -1,4 +1,6 @@
+// Learning to use concatenation
 package Basic;
+
 import java.util.Scanner;
 
 public class Concat {
