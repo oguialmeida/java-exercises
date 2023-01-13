@@ -1,4 +1,4 @@
-// A simple calculator which takes two numbers (Written to use in Potuguese)
+// A simple calculator which takes two numbers
 package Exercices;
 
 import java.util.Scanner;
