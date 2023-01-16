@@ -1,8 +1,9 @@
-package Exercices;
+// A continuous sum
+package Basic;
 
 import java.util.Scanner;
 
-public class Fixation6 {
+public class RepeatedSumFor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         try {

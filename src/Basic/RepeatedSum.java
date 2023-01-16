@@ -1,9 +1,9 @@
 // Creating a continuous operation
-package Exercices;
+package Basic;
 
 import java.util.Scanner;
 
-public class Fixation5 {
+public class RepeatedSum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         boolean result = true;

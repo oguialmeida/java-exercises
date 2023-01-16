@@ -1,9 +1,9 @@
 // How to use the ternary operator
-package Exercices;
+package Basic;
 
 import java.util.Scanner;
 
-public class Fixation2 {
+public class Discount {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.printf("Digite o preço do produto desejado: ");

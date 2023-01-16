@@ -1,9 +1,9 @@
 // A simple calculator which takes two numbers
-package Exercices;
+package Basic;
 
 import java.util.Scanner;
 
-public class Fixation4 {
+public class SimpleCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         boolean makeLoop = true;

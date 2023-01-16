@@ -1,9 +1,9 @@
 // Simple counter
-package Exercices;
+package Basic;
 
 import java.util.Scanner;
 
-public class Fixation3 {
+public class WhileCounter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Digite até quando deseja contar: ");

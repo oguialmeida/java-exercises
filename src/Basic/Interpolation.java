@@ -1,9 +1,9 @@
 // Displaying variables in strings
-package Exercices;
+package Basic;
 
 import java.util.Locale;
 
-public class Fixation1 {
+public class Interpolation {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
 
