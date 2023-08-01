@@ -1,5 +1,5 @@
 // Say greetings in Potuguese according to a given time in hours 
-package Basic;
+package basic;
 
 import java.util.Scanner;
 

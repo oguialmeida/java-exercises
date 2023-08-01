@@ -1,4 +1,4 @@
-package Medium.Triang;
+package medium.triang;
 
 import java.util.Scanner;
 

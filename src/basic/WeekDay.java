@@ -1,5 +1,5 @@
 // Says the day of the week in Portugueses according to a typed integer
-package Basic;
+package basic;
 
 import java.util.Scanner;
 

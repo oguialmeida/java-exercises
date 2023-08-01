@@ -1,5 +1,5 @@
 // Shows the highest between three numbers
-package Medium;
+package medium;
 
 import java.util.Scanner;
 

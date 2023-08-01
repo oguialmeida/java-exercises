@@ -1,4 +1,4 @@
-package Medium.Triang;
+package medium.triang;
 
 class Triangle {
     public double[] a = new double[2];

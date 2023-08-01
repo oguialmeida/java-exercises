@@ -1,5 +1,5 @@
 // Creating a continuous operation
-package Basic;
+package basic;
 
 import java.util.Scanner;
 

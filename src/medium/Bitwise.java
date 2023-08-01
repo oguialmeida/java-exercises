@@ -1,5 +1,5 @@
 // Compare two numbers in binary terms
-package Medium;
+package medium;
 
 import java.util.Scanner;
 

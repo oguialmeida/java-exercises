@@ -1,5 +1,5 @@
 // Learning to use concatenation
-package Basic;
+package basic;
 
 import java.util.Scanner;
 

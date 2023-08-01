@@ -1,5 +1,5 @@
 // Displaying variables in strings
-package Basic;
+package basic;
 
 import java.util.Locale;
 

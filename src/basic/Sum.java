@@ -1,5 +1,5 @@
 // The sum of two numbers
-package Basic;
+package basic;
 
 import java.util.Locale;
 

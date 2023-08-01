@@ -1,5 +1,5 @@
 // How to use the ternary operator
-package Basic;
+package basic;
 
 import java.util.Scanner;
 

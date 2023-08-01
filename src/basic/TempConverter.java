@@ -1,5 +1,5 @@
 // Celsius to fahrenheit conversion 
-package Basic;
+package basic;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // A simple calculator which takes two numbers
-package Basic;
+package basic;
 
 import java.util.Scanner;
 

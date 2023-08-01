@@ -1,5 +1,5 @@
 // A continuous sum
-package Basic;
+package basic;
 
 import java.util.Scanner;
 

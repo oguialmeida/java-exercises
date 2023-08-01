@@ -1,5 +1,5 @@
 // Calculating the area of a trapezoid
-package Basic;
+package basic;
 
 import java.util.Scanner;
 

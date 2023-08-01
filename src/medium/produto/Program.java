@@ -1,4 +1,4 @@
-package Medium.Produto;
+package medium.produto;
 
 import java.util.Locale;
 import java.util.Scanner;
