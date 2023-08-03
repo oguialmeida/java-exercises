@@ -2,7 +2,7 @@ package medium.triang;
 
 import java.util.Scanner;
 
-public class TriangMensureWithClasses {
+public class Program {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
