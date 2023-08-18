@@ -1,4 +1,4 @@
-package medium.salario;
+package medium.wage;
 
 public class Salario {
     public String name;

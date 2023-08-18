@@ -1,4 +1,4 @@
-package medium.terceiro_produto;
+package medium.third_product;
 
 public class Product {
     private String name;

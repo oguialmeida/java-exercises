@@ -1,4 +1,4 @@
-package medium.retangulo;
+package medium.rectangle;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

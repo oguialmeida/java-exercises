@@ -1,4 +1,4 @@
-package medium.retangulo;
+package medium.rectangle;
 
 public class Retangulo {
     public double width;

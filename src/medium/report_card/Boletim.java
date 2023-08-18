@@ -1,4 +1,4 @@
-package medium.boletim;
+package medium.report_card;
 
 public class Boletim {
     public String name;

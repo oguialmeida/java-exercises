@@ -1,4 +1,4 @@
-package medium.produto;
+package medium.product;
 
 public class TipoProduto {
     public String name;

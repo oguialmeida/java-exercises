@@ -1,4 +1,4 @@
-package medium.boletim;
+package medium.report_card;
 
 import java.text.DecimalFormat;
 import java.util.Locale;

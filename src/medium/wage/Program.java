@@ -1,4 +1,4 @@
-package medium.salario;
+package medium.wage;
 
 import java.text.DecimalFormat;
 import java.util.Locale;
